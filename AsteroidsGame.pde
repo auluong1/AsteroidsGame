@@ -27,7 +27,7 @@ public void draw()
     bruh.turn(-5);
   }
   if(ww) {
-    bruh.accelerate(1);
+    bruh.accelerate(0.5);
   }
   if(ss) {
     bruh.setMyDirectionX(0);
